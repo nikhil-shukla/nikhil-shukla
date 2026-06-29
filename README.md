@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/nikhil-shukla"><img src="https://komarev.com/ghpvc/?username=nikhil-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
+  <a href="https://www.linkedin.com/in/nikhil-shukla-qa-automation"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
