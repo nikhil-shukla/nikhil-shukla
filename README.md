@@ -61,12 +61,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhil-shukla&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Nikhil's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-shukla&layout=compact&count_private=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhil-shukla&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Nikhil's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhil-shukla&layout=compact&count_private=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-shukla&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nikhil-shukla&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
