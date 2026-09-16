@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Shukla</h1>
-<h3 align="center">QA Automation Engineer / SDET — building reliable software through test automation & AI-driven QA</h3>
+<h3 align="center">Lead SDET/ QA Automation Engineer — building reliable software through test automation & AI-driven QA</h3>
 
 <p align="center">
   <a href="https://github.com/nikhil-shukla"><img src="https://komarev.com/ghpvc/?username=nikhil-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
